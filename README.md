@@ -1,4 +1,4 @@
-Ringrazio Paolo Montrasio per aver fatto il lavoro di ricostruzione delle modifiche sulla Costituzione che saranno oggetto del referendum di novembre 2016. Qui potete trovare il suo [repository originale](https://github.com/pmontrasio/costituzione)
+Ringrazio Paolo Montrasio per aver fatto il lavoro di ricostruzione delle modifiche sulla Costituzione che saranno oggetto del referendum del 4 dicembre 2016. Qui potete trovare il suo [repository originale](https://github.com/pmontrasio/costituzione)
 
 All'interno trovate:
 
